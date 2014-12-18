@@ -1,0 +1,9 @@
+{
+    "keyFile": "key.pem",
+    "expiresInMinuteas": 60,
+    "claim":{
+        "iss"   : "YOUR_PROJECT_SERVICE@developer.gserviceaccount.com",
+        "scope" : "https://sites.google.com/feeds/",
+        "aud"   : "https://accounts.google.com/o/oauth2/token"
+    }
+}

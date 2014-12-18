@@ -1,0 +1,17 @@
+{
+  "name": "google-oauth2-web-appication",
+  "version": "0.0.0",
+  "description": "google oauth2 web application demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express-session": "^1.9.1",
+    "googleapis": "^1.0.21",
+    "request": "^2.48.0"
+  }
+}
