@@ -1,0 +1,15 @@
+{
+  "name": "google-oauth2-service-account",
+  "version": "0.0.0",
+  "description": "google oauth2 service account demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "google-oauth-serviceaccount": "0.0.1",
+    "request": "^2.48.0"
+  }
+}
